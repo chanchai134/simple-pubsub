@@ -1,0 +1,11 @@
+{
+  "name": "simple-pubsub",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ./build/app.js",
+    "prestart": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
